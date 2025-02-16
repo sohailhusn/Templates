@@ -1,0 +1,84 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_1_TESTIMONIAL_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_TESTIMONIAL_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_TESTIMONIAL_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_FAQ_SUBTITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_1_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_2_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_3_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_4_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_5_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_6_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_6",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_7_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_7",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_8_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FAQ_8",
+      "content": ""
+    }
+  ]
+}

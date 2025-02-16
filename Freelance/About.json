@@ -1,0 +1,48 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_TESTIMONY",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_PARTNERS_DESC",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_ABOUT_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_ABOUT_SUBTITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_ABOUT_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_STORY_VISION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_STORY_VISION_DESC",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_EXCLUSIVE_AGREEMENT",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_EXCLUSIVE_AGREEMENT_DESC",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_COMMUNITY_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_COMMUNITY_DESC",
+      "content": ""
+    }
+  ]
+}

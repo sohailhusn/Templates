@@ -1,0 +1,88 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_STAT_1_NUMBER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_STAT_1_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_STAT_1_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_13_STAT_2_NUMBER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_14_STAT_2_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_15_STAT_2_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_16_STAT_3_NUMBER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_17_STAT_3_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_STAT_3_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_19_RELATED_PROJECTS_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_PROJECT_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_20_CTA_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_21_CTA_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_PROJECT_SUBTITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_ABOUT_SECTION_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_ABOUT_SECTION_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_ROLE_SECTION_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_ROLE_ITEM_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_ROLE_ITEM_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_ROLE_ITEM_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_ROLE_ITEM_4",
+      "content": ""
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_SERVICES_WE_PROVIDE_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_SERVICES_WE_PROVIDE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_SERVICES_WE_PROVIDE_DESCRIPTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_13_GET_A_PRICE_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_14_GET_A_PRICE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_16_BREEZE_AND_RELAX_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_17_AWESOME_TEAM_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_AWESOME_TEAM_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_AWESOME_TEAM_TITLE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_19_TEAM_NAME_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_ABOUT_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_20_TEAM_ROLE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_21_TEAM_NAME_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_22_TEAM_ROLE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_23_TEAM_NAME_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_24_TEAM_ROLE_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_25_TEAM_NAME_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_26_TEAM_ROLE_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_27_SERVICES_WE_PROVIDE_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_28_SERVICES_WE_PROVIDE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_29_SERVICES_WE_PROVIDE_DESCRIPTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_ABOUT_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_30_SATISFIED_CLIENTS_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_31_SATISFIED_CLIENTS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_32_EXPERT_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_SERVICES_MAIN_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_SERVICES_MAIN_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_SERVICES_MAIN_DESCRIPTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_CHECK_HOW_WE_DO_IT_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_CHECK_HOW_WE_DO_IT_DESCRIPTION",
+      "content": ""
+    }
+  ]
+}

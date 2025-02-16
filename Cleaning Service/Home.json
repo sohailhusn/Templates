@@ -1,0 +1,220 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_OUR_SERVICES_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_OUR_SERVICES_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_OUR_SERVICES_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_13_OUR_SERVICES_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_14_OUR_SERVICES_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_15_OUR_SERVICES_6",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_16_SERVICES_1_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_17_WHY_CHOOSE_US_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_WHY_CHOOSE_US_SUB_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_19_WHY_CHOOSE_US_DESCRIPTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_HOME_PAGE_SUBTITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_20_WHY_CHOOSE_US_DESCRIPTION_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_21_WE_MAKE_LIFE_EASIER_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_22_WORK_PROGRESS_STEP_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_23_WORK_PROGRESS_STEP_1_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_24_WORK_PROGRESS_STEP_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_25_WORK_PROGRESS_STEP_2_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_26_WORK_PROGRESS_STEP_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_27_WORK_PROGRESS_STEP_3_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_28_WHY_CHOOSE_US_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_29_WHY_CHOOSE_US_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_HOME_PAGE_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_30_PRICES_FOR_OUR_SERVICES_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_31_BASIC_PLAN_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_32_OUR_SERVICES_FEATURE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_33_OUR_SERVICES_FEATURE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_34_OUR_SERVICES_FEATURE_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_35_OUR_SERVICES_FEATURE_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_36_OUR_SERVICES_FEATURE_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_37_STANDARD_PLAN_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_38_OUR_SERVICES_FEATURE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_39_OUR_SERVICES_FEATURE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_HOME_PAGE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_40_OUR_SERVICES_FEATURE_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_41_OUR_SERVICES_FEATURE_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_42_OUR_SERVICES_FEATURE_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_43_PREMIUM_PLAN_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_44_OUR_SERVICES_FEATURE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_45_OUR_SERVICES_FEATURE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_46_OUR_SERVICES_FEATURE_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_47_OUR_SERVICES_FEATURE_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_48_OUR_SERVICES_FEATURE_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_49_OUR_ACHIEVEMENTS_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_ABOUT_US_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_50_OUR_ACHIEVEMENTS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_51_TESTIMONIAL_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_52_TESTIMONIAL_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_53_TESTIMONIAL_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_54_APPOINTMENT_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_ABOUT_US_QUOTE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_ABOUT_US_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_OUR_SERVICES_SUB_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_OUR_SERVICES_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_OUR_SERVICES_DESCRIPTION",
+      "content": ""
+    }
+  ]
+}

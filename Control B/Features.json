@@ -1,0 +1,236 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_MAIN_FEATURES_DESCRIPTION_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_MAIN_FEATURES_TITLE_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_MAIN_FEATURES_TITLE_6",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_13_MAIN_FEATURES_TITLE_7",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_14_MAIN_FEATURES_TITLE_8",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_15_FEATURES_MAIN_TITLE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_16_FEATURES_TITLE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_17_FEATURES_DESCRIPTION_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_FEATURES_MAIN_TITLE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_19_FEATURES_TITLE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_FEATURES_PAGE_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_20_FEATURES_DESCRIPTION_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_21_FEATURES_MAIN_TITLE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_22_MAIN_FEATURES_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_23_MAIN_FEATURE_TITLE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_24_MAIN_FEATURE_DESCRIPTION_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_25_MAIN_FEATURE_TITLE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_26_MAIN_FEATURE_DESCRIPTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_27_FEATURES_TITLE_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_28_FEATURES_DESCRIPTION_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_29_FEATURES_TITLE_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_FEATURES_MAIN_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_30_FEATURES_DESCRIPTION_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_31_FEATURES_TITLE_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_32_FEATURES_DESCRIPTION_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_33_FEATURES_TITLE_6",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_34_FEATURES_DESCRIPTION_6",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_35_FEATURES_TITLE_7",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_36_FEATURES_DESCRIPTION_7",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_37_FEATURES_TITLE_8",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_38_FEATURES_DESCRIPTION_8",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_39_FEATURES_TITLE_9",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_FEATURES_MAIN_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_40_FEATURES_DESCRIPTION_9",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_41_FAQ_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_42_FAQ_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_43_FAQ_ANSWER_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_44_FAQ_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_45_FAQ_ANSWER_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_46_FAQ_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_47_FAQ_ANSWER_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_48_FAQ_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_49_FAQ_ANSWER_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_MAIN_FEATURES_TITLE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_50_FAQ_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_51_FAQ_ANSWER_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_52_FAQ_6",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_53_FAQ_ANSWER_6",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_54_FAQ_7",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_55_FAQ_ANSWER_7",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_56_FAQ_8",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_57_FAQ_ANSWER_8",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_58_READY_TO_START_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_MAIN_FEATURES_DESCRIPTION_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_MAIN_FEATURES_TITLE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_MAIN_FEATURES_DESCRIPTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_MAIN_FEATURES_TITLE_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_MAIN_FEATURES_TITLE_4",
+      "content": ""
+    }
+  ]
+}

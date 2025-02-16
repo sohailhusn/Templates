@@ -1,0 +1,80 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_SOLUTION_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_SOLUTION_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_CONNECT_FREELANCERS_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_13_CONNECT_FREELANCERS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_14_SUCCESS_MANAGER_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_15_SUCCESS_MANAGER_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_16_MANAGE_TEAMWORK_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_17_MANAGE_TEAMWORK_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_SPEEDUP_PROCESSES_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_19_FIND_FREELANCER_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_FEATURES_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_PERSONAL_DETAILS_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_PERSONAL_DETAILS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_JOBS_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_JOBS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_RATINGS_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_RATINGS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_PAYMENTS_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_PAYMENTS_DESCRIPTION",
+      "content": ""
+    }
+  ]
+}

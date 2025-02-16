@@ -1,0 +1,88 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_FEATURE_4_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_FEATURE_5_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_FEATURE_5_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_13_FEATURE_6_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_14_FEATURE_6_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_15_MAIN_FEATURE_1_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_16_MAIN_FEATURE_1_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_17_MAIN_FEATURE_2_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_MAIN_FEATURE_2_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_19_MAIN_FEATURE_2_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_HOMEPAGE_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_20_MAIN_FEATURE_2_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_21_TESTIMONIAL_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_HOMEPAGE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_FEATURE_1_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_FEATURE_1_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_FEATURE_2_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_FEATURE_2_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_FEATURE_3_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_FEATURE_3_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_FEATURE_4_TITLE",
+      "content": ""
+    }
+  ]
+}

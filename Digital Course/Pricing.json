@@ -1,0 +1,44 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_PRICING_PAGE_ANSWER_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_PRICING_PAGE_QUESTION_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_PRICING_PAGE_ANSWER_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_PRICING_PAGE_QUESTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_PRICING_PAGE_ANSWER_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_PRICING_PAGE_QUESTION_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_PRICING_PAGE_ANSWER_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_PRICING_PAGE_QUESTION_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_PRICING_PAGE_ANSWER_4",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_PRICING_PAGE_QUESTION_5",
+      "content": ""
+    }
+  ]
+}

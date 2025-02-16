@@ -1,0 +1,76 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_HOME_PAGE_HEADING_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_GET_TIPS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_WHO_WE_ARE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_13_TESTIMONIAL_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_14_TESTIMONIAL_SMALL_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_15_TESTIMONIAL_SMALL_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_16_TESTIMONIAL_SMALL_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_17_CUSTOMER_SUPPORT_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_PRICING_PLAN_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_HOME_PAGE_SMALL_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_HOME_PAGE_HEADING",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_HOME_PAGE_HEADING_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_SERVICE_1_NAME",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_SERVICE_1_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_SERVICE_2_NAME",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_SERVICE_2_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_SERVICE_3_NAME",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_SERVICE_3_DESCRIPTION",
+      "content": ""
+    }
+  ]
+}

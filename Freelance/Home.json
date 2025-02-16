@@ -1,0 +1,80 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_SEARCH_FOR_ORDERS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_INSTALL_APPLICATION_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_FILL_IN_PROFILE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_13_SEARCH_FOR_ORDERS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_14_POWERFUL_COMMUNITY_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_15_TESTIMONIAL_REVIEW",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_16_BUSINESS_SOLUTION_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_17_CONNECT_TO_FREELANCERS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_18_SUCCESS_MANAGER_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_19_MANAGE_TEAMWORK_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_FREELANCE_HOMEPAGE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_RATING_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_BUDGET_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_PROTECTED_PAYMENTS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_QUALITY_WORK_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_FULL_SUPPORT_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_HOW_IT_WORKS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_INSTALL_APPLICATION_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_FILL_IN_PROFILE_DESCRIPTION",
+      "content": ""
+    }
+  ]
+}

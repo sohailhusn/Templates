@@ -1,0 +1,12 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_1_CONTACT_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_CONTACT_SUBTITLE",
+      "content": ""
+    }
+  ]
+}

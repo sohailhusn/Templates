@@ -1,0 +1,20 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_1_SERVICES_PAGE_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_WHAT_WE_CAN_DO_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_WHAT_MEMBERS_ARE_SAYING_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_COMPANIES_TRUST_US_DESCRIPTION",
+      "content": ""
+    }
+  ]
+}

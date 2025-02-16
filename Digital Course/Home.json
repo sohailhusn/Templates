@@ -1,0 +1,52 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_10_HOMEPAGE_COMMON_QUESTION_4_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_11_HOMEPAGE_COMMON_QUESTION_5",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_12_HOMEPAGE_COMMON_QUESTION_5_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_1_HOMEPAGE_INSTRUCTOR_DESCRIPTION_PART_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_HOMEPAGE_INSTRUCTOR_DESCRIPTION_PART_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_HOMEPAGE_COMMON_QUESTION_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_HOMEPAGE_COMMON_QUESTION_1_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_HOMEPAGE_COMMON_QUESTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_HOMEPAGE_COMMON_QUESTION_2_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_HOMEPAGE_COMMON_QUESTION_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_HOMEPAGE_COMMON_QUESTION_3_ANSWER",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_9_HOMEPAGE_COMMON_QUESTION_4",
+      "content": ""
+    }
+  ]
+}

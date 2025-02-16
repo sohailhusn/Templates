@@ -1,0 +1,20 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_1_ABOUT_PAGE_DESCRIPTION_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_ABOUT_PAGE_DESCRIPTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_ABOUT_PAGE_DESCRIPTION_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_ABOUT_PAGE_TITLE",
+      "content": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_1_ABOUT_TITLE",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_ABOUT_PARAGRAPH_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_ABOUT_PARAGRAPH_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_VALUE_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_VALUE_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_VALUE_3",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_VALUE_4",
+      "content": ""
+    }
+  ]
+}

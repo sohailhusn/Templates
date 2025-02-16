@@ -1,0 +1,36 @@
+{
+  "placeholders": [
+    {
+      "id": "PLACEHOLDER_1_OUR_STORY_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_2_OUR_APPROACH_DESCRIPTION_1",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_3_OUR_APPROACH_DESCRIPTION_2",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_4_STRONG_TEAM_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_5_HOW_CAN_WE_HELP_YOU_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_6_AGENCY_AWARD_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_7_SELECTED_WORKS_DESCRIPTION",
+      "content": ""
+    },
+    {
+      "id": "PLACEHOLDER_8_HOW_WE_CAN_HELP_YOU_DESCRIPTION",
+      "content": ""
+    }
+  ]
+}
